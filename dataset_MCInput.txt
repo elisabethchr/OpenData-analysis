@@ -50,11 +50,4 @@ mc_363491.lllv.2lep.root 363491 Dibosons
 mc_363492.llvv.2lep.root 363492 Dibosons
 mc_363493.lvvv.2lep.root 363493 Dibosons
 mc_305550.Gee_01_750.2lep.root 305550 Graviton
-mc_305553.Gee_01_1000.2lep.root 305553 Graviton
-mc_305556.Gee_01_2000.2lep.root 305556 Graviton
-mc_305559.Gee_01_3000.2lep.root 305559 Graviton
-mc_305562.Gee_01_4000.2lep.root 305562 Graviton
 mc_305568.Gmumu_01_750.2lep.root 305568 Graviton
-mc_305571.Gmumu_01_1000.2lep.root 305571 Graviton
-mc_305574.Gmumu_01_2000.2lep.root 305574 Graviton
-mc_305577.Gmumu_01_3000.2lep.root 305577 Graviton
